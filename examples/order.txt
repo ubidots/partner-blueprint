@@ -1,4 +1,3 @@
-#Namespace
-    #Awesome Examples
-        Example_1
-
+#Ubidots
+    ##IOT
+        Controlled_publish_period

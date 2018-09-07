@@ -1,17 +1,12 @@
-==================
-My Awesome Library
-==================
+.. _lib.ubidots.iot
 
-Here goes the documentation for the library
+*******
+Ubidots
+*******
 
+Ubidots is an IoT platform to connect, monitor and control Internet of Things devices: `Ubidots IoT platform <https://ubidots.com/>`_
 
-Technical Details
-*****************
-
-Here goes any subsection of the doc
-
-
-This last line must be included! It will parse the actual documentation written in the source
-code; it will also automatically add all the provided examples.
+Here below, the Zerynth Library to manage your devices thanks to Ubidots:
 
 .. include:: __toc.rst
+

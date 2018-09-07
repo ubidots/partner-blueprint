@@ -1,14 +1,18 @@
 {
-    "fullname": "lib.namespace.libname",
-    "git_pointer": "github://zerynth/partner-blueprints",
-    "title": "My awesome library",
-    "description": "My awesome library description",
+    "description": "Module for connecting to Ubidots IoT Platform",
+    "fullname": "lib.ubidots.iot",
+    "git_pointer": "github://ubidots/ubidots-zerynth",
+    "info": {
+        "chip_manufacturer": "-",
+        "chip_name": "-",
+        "name": "Zerynth Ubidots Library",
+        "type": "IoT Cloud"
+    },
     "keywords": [
-        "temperature",
-        "sensor",
-        "I2C",
-        "whatever"
+        "ubidots",
+        "iot"
     ],
     "repo": "official",
+    "title": "Ubidots IoT Library",
     "version": "r2.1.2"
 }
